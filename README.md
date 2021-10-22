@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Nerozya](https://discord.gg/fE8UM9vuNJ).
 
-- 👨‍💻 All of my projects are available at [https://me.viiron.site/](https://discord.gg/fE8UM9vuNJ)
+- 👨‍💻 All of my projects are available at [https://me.viiron.site/](https://me.viiron.site/)
 
 
 <h3 align="left">Languages and Tools:</h3>
