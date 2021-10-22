@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viiron&label=Profile%20views&color=0e75b6&style=flat" alt="viiron" /> </p>
 
-- 🔭 I’m currently working on [Nerozya](https://viiron.site/).
+- 🔭 I’m currently working on [Nerozya](https://discord.gg/fE8UM9vuNJ).
 
-- 👨‍💻 All of my projects are available at [https://viiron.site/](https://discord.gg/fE8UM9vuNJ)
+- 👨‍💻 All of my projects are available at [https://me.viiron.site/](https://discord.gg/fE8UM9vuNJ)
 
 
 <h3 align="left">Languages and Tools:</h3>
